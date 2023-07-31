@@ -1,0 +1,7 @@
+transformers==4.28.1
+python-dotenv==1.0.0
+torch==2.0.1
+torchvision==0.15.2
+peft==0.3.0
+fastapi==0.95.1
+uvicorn==0.21.1
